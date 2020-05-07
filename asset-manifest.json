@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.dc8c1d3e.chunk.css",
+    "main.js": "/clicky-game/static/js/main.a839a8e7.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.a839a8e7.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.ea51dac7.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.ea51dac7.js.map",
+    "static/js/2.a0af9036.chunk.js": "/clicky-game/static/js/2.a0af9036.chunk.js",
+    "static/js/2.a0af9036.chunk.js.map": "/clicky-game/static/js/2.a0af9036.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.c2dbe91085e0a283379d72495b191687.js": "/clicky-game/precache-manifest.c2dbe91085e0a283379d72495b191687.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.dc8c1d3e.chunk.css.map": "/clicky-game/static/css/main.dc8c1d3e.chunk.css.map",
+    "static/js/2.a0af9036.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.a0af9036.chunk.js.LICENSE.txt",
+    "static/media/alright.mp3": "/clicky-game/static/media/alright.1b2da803.mp3",
+    "static/media/index.css": "/clicky-game/static/media/burgers.88dfa609.ttf",
+    "static/media/omg.mp3": "/clicky-game/static/media/omg.634ce896.mp3",
+    "static/media/Header.css": "/clicky-game/static/media/pokeball.1ce2114b.png",
+    "static/media/theme.mp3": "/clicky-game/static/media/theme.743c5f3a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea51dac7.js",
+    "static/js/2.a0af9036.chunk.js",
+    "static/css/main.dc8c1d3e.chunk.css",
+    "static/js/main.a839a8e7.chunk.js"
+  ]
+}
