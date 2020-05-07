@@ -6,9 +6,9 @@ This React app is a memory game involving some of my favorite Pokemon. Try to yo
 
 ---
 
-### Demonstration
+### Deployment
 
-See a short demonstration of how the app works [here](https://vcasmirri.github.io/clicky-game/)!
+Find the app [here](https://vcasmirri.github.io/clicky-game/)!
 
 ---
 
