@@ -21,6 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://https://vcasmirri.github.io/clicky-game/",
   "eslintConfig": {
     "extends": "react-app"
   },
