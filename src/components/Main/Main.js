@@ -11,14 +11,14 @@ const Main = props => (
             <button className={`btn btn-link`} onClick = {() => { props.volume(); }}>
                 <i className={"fas fa-volume-off fa-4x volume-icon"}></i>
             </button>
-            <img id="linda-gif" src="./images/happy-dance.gif" />
+            {/* <img id="linda-gif" src="./images/happy-dance.gif" /> */}
         </div>
         <div className="container">
             {props.children}
         </div>
-        <div className="gif">
+        {/* <div className="gif">
             <img id="louise-gif" src="./images/louise.gif" />
-        </div>
+        </div> */}
     </main>
 )
 // EXPORT DEFAULT: Main

@@ -10,11 +10,11 @@ const Footer = props => (
                     <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-react fa-2x"></i>
                     </a>
-                    <a href="https://github.com/maddiedeming/clicky-game" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/vcasmirri/clicky-game" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-github fa-2x"></i>
                     </a>
                     <div className="spacer"></div>
-                    Maddie Deming 2018 ©
+                    Vince Casmirri © 2020
                 </td>
             </tr>
         </tbody>
